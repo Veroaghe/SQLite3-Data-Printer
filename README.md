@@ -1,7 +1,7 @@
 # SQLite3-Data-Printer
 
 This Data Printer is meant to be used with SQLite3 in Python. 
-The function inside prints out a selection, you've made with the cursor in the database, in a standardized way. 
+The function inside prints out a selection you've made, with the SQLite3 cursor in the database, in a standardized way. 
 The comments in the file contain more info on how the data will be printed out. 
 
 Import the function into the file where you're using SQLite 3 to select data from a database.
